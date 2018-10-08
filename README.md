@@ -1,7 +1,8 @@
 Lightning
 =========
+Work through [Math.random worksheet](https://drive.google.com/open?id=1UOLhvaG9RVIB3dpJEpv6iVI49j9lo_Um) first. Put any sample code you work on inside of a class called RandomPractice.java of this project directory.  
 
-One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. You may find the [Math.random worksheet](https://drive.google.com/file/d/0Bz2ZkT6qWPYTSU84X3FSOGYwdFU/view?usp=sharing) helpful.  
+One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. 
 
 * Start by accepting the assignment. (Done if you are reading this).
 * Open the Lightning.pde file in Processing (it is located in the Lightning directory).
