@@ -32,6 +32,6 @@ Your program needs to create a random walk using `Math.random()` for *all* rando
 
 Samples of Student Work
 -----------------------
-[clouds and lightning](https://rollandliao.github.io/Lightning/)
-[he who shall not be named](https://emil000.github.io/Lightning/)
-[rainbow bolt](https://chan34kelvin.github.io/Lightning/)
+* [clouds and lightning](https://rollandliao.github.io/Lightning/)
+* [he who shall not be named](https://emil000.github.io/Lightning/)
+* [rainbow bolt](https://chan34kelvin.github.io/Lightning/)
