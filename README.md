@@ -15,7 +15,7 @@ One way to simulate lightning is with a random walk. In this assignment you will
    * set the `strokeWeight()` and `background()` of your app. 
 * `void draw()` needs to do two things:  
   * set the `stroke()`color of the lightning bolt to some random value using `Math.random()`
-  * Create a `while` loop that repeats the following until the `endX` is off the screen:    
+  * Create a `while` loop that repeats the following steps until the `endX` is off the screen (translate the following instructions to java code in the order for which they appear).
     1. set `endX` = `startX` + a random integer from 0 to 9  
     2. set `endY` = `startY` + a random integer from -9 to 9  
     3. draw a `line()` with endpoints `startX`,`startY`,`endX`,`endY`    
@@ -24,7 +24,7 @@ One way to simulate lightning is with a random walk. In this assignment you will
 * Create a `void mousePressed()` method. The method needs to:
   * set `startX`,`startY`,`endX`,`endY` back to their initial values.  
 * You will need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub
-* The final step is to submit the URL for your website to google classroom. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
+* The final step is to update your portfolio with references to this project, just like you did for `Coat of Arms`
 
 Program requirements
 -----------------------
@@ -32,3 +32,6 @@ Your program needs to create a random walk using `Math.random()` for *all* rando
 
 Samples of Student Work
 -----------------------
+[clouds and lightning](https://rollandliao.github.io/Lightning/)
+[he who shall not be named](https://emil000.github.io/Lightning/)
+[rainbow bolt](https://chan34kelvin.github.io/Lightning/)
