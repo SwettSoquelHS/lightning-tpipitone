@@ -3,7 +3,7 @@ Math.random() Work First
 * Start by accepting the assignment. (Done if you are reading this).
 * Next clone the project on your laptop.
 
-* Work through [Math.random worksheet](https://drive.google.com/open?id=1UOLhvaG9RVIB3dpJEpv6iVI49j9lo_Um) first. Put any sample code you work on inside of a class called RandomPractice.java of this project directory.  
+* Work through [Math.random worksheet](https://drive.google.com/open?id=1UOLhvaG9RVIB3dpJEpv6iVI49j9lo_Um) first. I have blank print outs at my desk. Put any sample code you use to complete the worksheet inside of a class called RandomPractice.java of this project directory. Be sure to git commit this work along with our Lightning Bolt Project.
 
 * Work on the random walk assignment:
 
