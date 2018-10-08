@@ -1,10 +1,17 @@
-Lightning
-=========
-Work through [Math.random worksheet](https://drive.google.com/open?id=1UOLhvaG9RVIB3dpJEpv6iVI49j9lo_Um) first. Put any sample code you work on inside of a class called RandomPractice.java of this project directory.  
+Math.random() Work First
+========================
+* Start by accepting the assignment. (Done if you are reading this).
+* Next clone the project on your laptop.
 
+* Work through [Math.random worksheet](https://drive.google.com/open?id=1UOLhvaG9RVIB3dpJEpv6iVI49j9lo_Um) first. Put any sample code you work on inside of a class called RandomPractice.java of this project directory.  
+
+* Work on the random walk assignment:
+
+Lightning Bolt
+==============
 One way to simulate lightning is with a random walk. In this assignment you will create a program that uses a random walk to seemingly shoot lightning from one side of the screen to the other every time the mouse is pressed. 
 
-* Start by accepting the assignment. (Done if you are reading this).
+
 * Open the Lightning.pde file in Processing (it is located in the Lightning directory).
 * At the top of the program, declare 4 `int` variables:  `startX`, `startY`, `endX` and `endY`. 
 * `void setup()` needs to: 
