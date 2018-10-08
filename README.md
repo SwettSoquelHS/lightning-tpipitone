@@ -7,18 +7,22 @@ One way to simulate lightning is with a random walk. In this assignment you will
 * Open the Lightning.pde file in Processing (it is located in the Lightning directory).
 * At the top of the program, declare 4 `int` variables:  `startX`, `startY`, `endX` and `endY`. 
 * `void setup()` needs to: 
- * Set the variables to an initial value `startX` to 0, `startY` to 150, `endX` to 0 and `endY` to 150
-  * asdf
- * set the `strokeWeight()` and `background()` of your app. 
+   * Set the variables to an initial value `startX` to 0, `startY` to 150, `endX` to 0 and `endY` to 150
+     * `startX` to 0, 
+     * `startY` to 150, 
+     * `endX` to 0 
+     * `endY` to 150 
+   * set the `strokeWeight()` and `background()` of your app. 
 * `void draw()` needs to do two things:  
-  -set the `stroke()`color of the lightning bolt to some random value using `Math.random()`
-  -a `while` loop that repeats the following until the `endX` is off the screen:    
+  * set the `stroke()`color of the lightning bolt to some random value using `Math.random()`
+  * Create a `while` loop that repeats the following until the `endX` is off the screen:    
     1. set `endX` = `startX` + a random integer from 0 to 9  
     2. set `endY` = `startY` + a random integer from -9 to 9  
     3. draw a `line()` with endpoints `startX`,`startY`,`endX`,`endY`    
     4. set `startX` equal to `endX` 
     5. set `startY` equal to `endY`
-* `void mousePressed()` needs to set `startX`,`startY`,`endX`,`endY` back to their initial values.  
+* Create a `void mousePressed()` method. The method needs to:
+  * set `startX`,`startY`,`endX`,`endY` back to their initial values.  
 * You will need to modify `index.html` to customize your website with it's own title, headline and footer. When you are happy with your program, push your finished project up to GitHub
 * The final step is to submit the URL for your website to google classroom. Don't hesitate to ask for help if your aren't sure how something is suppose to work.
 
